@@ -40,5 +40,5 @@ Follow these steps to install the project:
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/username/repository-name.git](https://github.com/Daniel-Stephende5/IM2-Repository.git](https://github.com/john48k/Stickman-Fighter-Game-Java.git
+    https://github.com/john48k/Stickman-Fighter-Game-Java.git
     ```
